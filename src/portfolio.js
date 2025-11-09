@@ -25,7 +25,7 @@ const greeting = {
 // ---------- Redes sociais ----------
 const socialMediaLinks = {
   github: "https://github.com/alejandrescobar",
-  instagram: "https://instagram.com/alee_ec",
+  instagram: "https://instagram.com/aale_ec",
   gmail: "alemateu123542@gmail.com",
   display: true
 };
